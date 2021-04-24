@@ -1,0 +1,43 @@
+[10-Mar-2021 17:07:19 UTC] PHP Notice:  Undefined variable: connection in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH10-01 MySQLThroughPHP.php on line 39
+[10-Mar-2021 17:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH10-01 MySQLThroughPHP.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH10-01 MySQLThroughPHP.php on line 39
+[10-Mar-2021 19:03:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[11-Mar-2021 17:58:53 UTC] PHP Warning:  unlink(CH07-07 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 19
+[11-Mar-2021 17:58:53 UTC] PHP Warning:  unlink(CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 23
+[16-Mar-2021 11:20:19 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[16-Mar-2021 13:33:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 73400344 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[19-Mar-2021 01:58:26 UTC] PHP Warning:  unlink(CH07-09 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 21
+[23-Mar-2021 08:47:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[23-Mar-2021 19:14:57 UTC] PHP Warning:  rename(CH07-09 textFile.txt,CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-11 movingFiles.php on line 17
+[27-Mar-2021 01:16:50 UTC] PHP Warning:  unlink(CH07-09 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 21
+[30-Mar-2021 20:07:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[30-Mar-2021 22:00:14 UTC] PHP Warning:  rename(CH07-09 textFile.txt,CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-11 movingFiles.php on line 17
+[31-Mar-2021 09:19:18 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[05-Apr-2021 02:09:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[05-Apr-2021 12:35:21 UTC] PHP Warning:  copy(CH07-03 textFile.txt): failed to open stream: No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-08 duplicatingFiles.php on line 17
+[09-Apr-2021 02:15:31 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[10-Apr-2021 15:30:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[11-Apr-2021 11:29:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[11-Apr-2021 14:24:59 UTC] PHP Warning:  copy(CH07-03 textFile.txt): failed to open stream: No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-08 duplicatingFiles.php on line 17
+[11-Apr-2021 14:25:08 UTC] PHP Warning:  copy(CH07-03 textFile.txt): failed to open stream: No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-10 functionErrorHandling.php on line 13
+[11-Apr-2021 14:27:27 UTC] PHP Warning:  unlink(CH07-03 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 17
+[11-Apr-2021 14:27:27 UTC] PHP Warning:  unlink(CH07-07 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 19
+[11-Apr-2021 14:27:27 UTC] PHP Warning:  unlink(CH07-09 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 21
+[11-Apr-2021 14:27:27 UTC] PHP Warning:  unlink(CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 23
+[11-Apr-2021 15:15:33 UTC] PHP Warning:  fopen(CH07-03 textFile.txt): failed to open stream: No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-06 readingFile.php on line 17
+[11-Apr-2021 15:15:33 UTC] PHP Warning:  fgets() expects parameter 1 to be resource, bool given in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-06 readingFile.php on line 18
+[11-Apr-2021 15:15:33 UTC] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-06 readingFile.php on line 20
+[11-Apr-2021 15:15:33 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-06 readingFile.php on line 22
+[11-Apr-2021 17:18:38 UTC] PHP Warning:  file_get_contents(CH07-03 textFile.txt): failed to open stream: No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-16 readingEntireFiles.php on line 17
+[14-Apr-2021 05:39:07 UTC] PHP Warning:  rename(CH07-09 textFile.txt,CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-11 movingFiles.php on line 17
+[15-Apr-2021 05:26:29 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[17-Apr-2021 02:17:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[17-Apr-2021 17:58:03 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[18-Apr-2021 18:14:20 UTC] PHP Warning:  unlink(CH07-09 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 21
+[18-Apr-2021 18:14:20 UTC] PHP Warning:  unlink(CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-13 deletingFiles.php on line 23
+[18-Apr-2021 18:20:01 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
+[18-Apr-2021 18:34:38 UTC] PHP Warning:  rename(CH07-09 textFile.txt,CH07-12 textFile.txt): No such file or directory in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH07-11 movingFiles.php on line 17
+[19-Apr-2021 01:58:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65011720 bytes) in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH04-09 MAY CRASH BROWSER foreverLoop.php on line 17
+[20-Apr-2021 11:51:22 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/rpreidco/paul-s-reid/web-dev/LPMJ Book-php/CH03-07 scope.php on line 101
