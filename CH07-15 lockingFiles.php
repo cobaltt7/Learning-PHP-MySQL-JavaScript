@@ -32,7 +32,7 @@ $design['RIGHT']       = '<pre class="code">'; {
 			" dolor deserunt. Ullamco reprehenderit quis reprehenderit amet sunt ex aliquip esse nostrud sint elit NULLa amet elit. Velit minim sit consectetur sint eu. Nisi deserunt exercitation" +
 			" sunt laborum consectetur exercitation aliquip sit anim culpa aliquip.")
 			or $design['RIGHT'] .= "Could not write to file.";
-		$design['RIGHT']        .= "<a href='CH07-03 textFile.txt'>Wrote to file 'CH07-03 textFile.txt' successfully!</a>";
+		$design['RIGHT']     .= "<a href='CH07-03 textFile.txt'>Wrote to file 'CH07-03 textFile.txt' successfully!</a>";
 	} else {
 		$design['RIGHT'] .= "Failed to lock file";
 	}
