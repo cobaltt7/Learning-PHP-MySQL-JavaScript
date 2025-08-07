@@ -3,7 +3,7 @@ $design['title']       = 'LPMJ Book - Date and Time';
 $design['description'] = 'Date and time activity from the book Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5 by Robin Nixon';
 $design['keywords']    = "date, unix, 1970, september, invalid, valid, time, book, learning php mysql javascript with jquery css html5, robin nixon, activities, learning, php, mysql, javascript, jquery, css, html, html5, robin, nixon, O'Reilly, LPMJ";
 $design['LEFT']        = <<<_END
-	<a href='https://paul-s-reid.com/web-dev/LPMJ%20Book-php'><h1>LPMJ Book</h1>
+	<a href='https://paulsreid.com/LPMJ%20Book-php'><h1>LPMJ Book</h1>
 	<h2>by Robin Nixon</h2></a>
 	Here is some code from the book <i>Learning <span class='php'>PHP</span>, <span class='mysql'>MySQL</span> & <span class='js'>JavaScript</span> with <span class='jquery'>jQuery</span>, <span class='css'>CSS</span> & <span class='html'>HTML<span class='notBold'>5</span></span> </i> by Robin Nixon.
 	<br>First, I experiment with a  function called time(), which returns the amount of seconds from 1/1/1970. I can use math to find out the same thing for different dates relative to today. Or I can use the mktime(\$hour, \$minute, \$second, \$month, \$day, \$year) function to find it for a speciffic date. Then I used the date(\$format, [\$timestamp]) function to find the current dat, in one of the many, many, many availbe formats. Finally, I used checkdate(\$month, \$day, \$year) to see if a few dates are valid or not.

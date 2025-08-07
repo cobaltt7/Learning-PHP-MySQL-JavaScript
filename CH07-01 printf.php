@@ -5,7 +5,7 @@
 	$design['description'] = 'printf activity from the book Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5 by Robin Nixon';
 	$design['keywords']    = "logic, octal, string, unsigned, lowercase, uppercase, hexadecimal, s, name, age, years, span, color, color code, code, division, rasmus, lerdorf, rasmus lerdorf, f, sprint, sprintf, echo, basket, percent, ASCII, signed, desimal, scientific, notation, scientific notation, floating point, floating, point, number, printf, book, learning php mysql javascript with jquery css html5, robin nixon, activities, learning, php, mysql, javascript, jquery, css, html, html5, robin, nixon, O'Reilly, LPMJ";
 	$design['LEFT']        = <<<_END
-		<a href='https://paul-s-reid.com/web-dev/LPMJ%20Book-php'><h1>LPMJ Book</h1>
+		<a href='https://paulsreid.com/LPMJ%20Book-php'><h1>LPMJ Book</h1>
 		<h2>by Robin Nixon</h2></a>
 		Here is some code from the book <i>Learning <span class='php'>PHP</span>, <span class='mysql'>MySQL</span> & <span class='js'>JavaScript</span> with <span class='jquery'>jQuery</span>, <span class='css'>CSS</span> & <span class='html'>HTML<span class='notBold'>5</span></span> </i> by Robin Nixon.
 		<br>First I practice usign printf with one argument. I give at leat one example of each possible conversion type with one argument. Then I do a few with multiple arguments and using variables instead of static text for the arguments. Then, I experiment with the many types of number and string padding printf offers.

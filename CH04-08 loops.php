@@ -3,13 +3,10 @@ $design['title']       = 'LPMJ Book - Loops';
 $design['description'] = 'Loops activity from the book Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5 by Robin Nixon';
 $design['keywords']    = "loops, 1, 2, 0, 12, 10, twelve, ten, one, two, zero, times, divide, multiplication, table, by, book, learning php mysql javascript with jquery css html5, robin nixon, activities, learning, php, mysql, javascript, jquery, css, html, html5, robin, nixon, O'Reilly, LPMJ";
 $design['LEFT']        = <<<_END
-<a href='https://paul-s-reid.com/web-dev/LPMJ%20Book-php'><h1>LPMJ Book</h1>
+<a href='https://paulsreid.com/LPMJ%20Book-php'><h1>LPMJ Book</h1>
 <h2>by Robin Nixon</h2></a>
 Here is some code from the book <i>Learning <span class='php'>PHP</span>, <span class='mysql'>MySQL</span> & <span class='js'>JavaScript</span> with <span class='jquery'>jQuery</span>, <span class='css'>CSS</span> & <span class='html'>HTML<span class='notBold'>5</span></span> </i> by Robin Nixon.
-<br>This code uses different types of loops to make the 12 times and 12 division tables, among other 
-
-
-functions.
+<br>This code uses different types of loops to make the 12 times and 12 division tables, among other functions.
 <br>See what it evaluates to over there 👉!
 _END;
 $design['RIGHT']       = '<pre class="code">';
@@ -74,7 +71,12 @@ while ($i > -10) {
 }
 
 $design['RIGHT'] .= "<h1>Forever (while)</h1>
-<i><a href='https://paul-s-reid.com/web-dev/LPMJ%20Book-php/CH04-09%20MAY%20CRASH%20BROWSER%20foreverLoop%20(theresEnoughFuel).php'>This loop mas moved here for preformance reasons. Be careful, this loop may crash your browser!</a></i>";
+<i>This loop has been disabled</i>";
+$fuel                  = 10;
+// while ($fuel > 1) {
+// 	$design['RIGHT'] .= "There's enough fuel.
+// ";
+// }
 
 $design['RIGHT'] .= '</pre>';
 require_once '../twoColumnDesign.php';

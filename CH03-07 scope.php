@@ -3,13 +3,10 @@ $design['title']       = "LPMJ Book - Variable scope";
 $design['description'] = "Scope acitivty from the book Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5 by Robin Nixon";
 $design['keywords']    = 'variable, scope, date, book, learning php mysql javascript with jquery css html5, robin nixon, activities, learning, php, mysql, javascript, jquery, css, html, html5, robin, nixon, O\'Reilly, LPMJ';
 $design['LEFT']        = <<<_END
-LPMJ Book</h1>
-<h2>by Robin Nixon</h2>
+<a href="https://paulsreid.com/LPMJ%20Book-php"><h1>LPMJ Book</h1>
+<h2>Robin Nixon</h2></a>
 Here is some code from the book <i>Learning <span class="php">PHP</span>, <span class="mysql">MySQL</span> & <span class="js">JavaScript</span> with <span class="jquery">jQuery</span>, <span class="css">CSS</span> & <span class="html">HTML<span class="notBold">5</span></span> </i> by Robin Nixon.
-<br>This code experiments with different types of variables. I learn about variables only acsessible in 
-
-
-functions, returning values, parameters, global variables, static variables, and superglobals.
+<br>This code experiments with different types of variables. I learn about variables only acsessible in functions, returning values, parameters, global variables, static variables, and superglobals.
 <br>See what it evaluates to over there 👉!
 _END;
 $design['RIGHT']       = '<pre class="code">';

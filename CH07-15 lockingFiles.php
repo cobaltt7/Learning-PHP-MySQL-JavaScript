@@ -4,7 +4,7 @@ $design['title']       = 'LPMJ Book - Locking a file';
 $design['description'] = 'File locking activity from the book Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5 by Robin Nixon';
 $design['keywords']    = "lock, locking, flock, LOCK_EX, LOCK_UN, over, overwrite, create, fopen, fwrite, fclose, open, write, close, f, file, book, learning php mysql javascript with jquery css html5, robin nixon, activities, learning, php, mysql, javascript, jquery, css, html, html5, robin, nixon, O'Reilly, LPMJ";
 $design['LEFT']        = <<<_END
-		<a href='https://paul-s-reid.com/web-dev/LPMJ%20Book-php'><h1>LPMJ Book</h1>
+		<a href='https://paulsreid.com/LPMJ%20Book-php'><h1>LPMJ Book</h1>
 		<h2>by Robin Nixon</h2></a>
 		Here is some code from the book <i>Learning <span class='php'>PHP</span>, <span class='mysql'>MySQL</span> & <span class='js'>JavaScript</span> with <span class='jquery'>jQuery</span>, <span class='css'>CSS</span> & <span class='html'>HTML<span class='notBold'>5</span></span> </i> by Robin Nixon.
 		<br>This is a replica of <a href='CH07-05 overwritingFiles.php'>CH07-05 overwritingFiles.php</a>, except this locks the file before wrting. That onyl lets one program write or read it at a time. Without that, the file could be come corrupted.
